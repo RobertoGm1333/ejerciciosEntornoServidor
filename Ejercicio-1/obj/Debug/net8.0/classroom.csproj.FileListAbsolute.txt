@@ -1,0 +1,15 @@
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\bin\Debug\net8.0\classroom.exe
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\bin\Debug\net8.0\classroom.deps.json
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\bin\Debug\net8.0\classroom.runtimeconfig.json
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\bin\Debug\net8.0\classroom.dll
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\bin\Debug\net8.0\classroom.pdb
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.AssemblyInfoInputs.cache
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.AssemblyInfo.cs
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.csproj.CoreCompileInputs.cache
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.dll
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\refint\classroom.dll
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.pdb
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.genruntimeconfig.cache
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\ref\classroom.dll
+D:\Roberto Tardes\Despliegue de aplicaciones web\classroom\classroom\obj\Debug\net8.0\classroom.sourcelink.json
